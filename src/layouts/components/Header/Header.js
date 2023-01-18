@@ -144,7 +144,7 @@ function Header() {
                         {currentUser ? (
                             <Image
                                 className={cx('user-avatar')}
-                                src="https://yt3.ggpht.com/ytc/AMLnZu_A99betR9yAbYIi62Wipb2_thfhRhlZLwaOZ6Q6g=s176-c-k-c0x00ffffff-no-rj"
+                                src="https://p16-sign.tiktokcdn-us.com/tos-useast5-avt-0068-tx/7189790256932061226~c5_100x100.jpeg?x-expires=1674176400&x-signature=KaoNZKDnhIz4oqUWrDU4sf4YUwc%3D"
                                 alt="liam tran"
                             />
                         ) : (
